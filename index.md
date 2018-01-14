@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 前车之鉴，后者之师
 
 You can use the [editor on GitHub](https://github.com/Motionless-Scilenc/WenDao/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
